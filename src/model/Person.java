@@ -14,7 +14,7 @@ public class Person {
 	
 	
 	/**
-	 * Metodo constructor que permite de la clase Person que permite inicialziar el objeto
+	 * Metodo constructor de la clase Person que permite inicializar el objeto
 	 * 
 	 * @param id
 	 * @param first_name
@@ -55,7 +55,4 @@ public class Person {
 	public String toString() {
 		return "Person [id=" + id + ", first_name=" + first_name + ", last_name=" + last_name + "]";
 	}
-	
-	
-	
 }
