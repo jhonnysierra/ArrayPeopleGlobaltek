@@ -7,7 +7,7 @@ Build id: 20180619-1200
 Ambiente de ejecucion: JavaSE-1.7 (jdk-12.0.1)
 
 
-### Problema planteado
+### Ejercicio planteado
 En cualquier lenguaje de programación moderno, cree una función que itera a través de un arreglo de objetos (primer argumento) y devuelve un arreglo de todos los objetos que tienen el par propiedad valor coincidente (segundo argumento). La propiedad del segundo argumento debe estar presente en todos los objetos del arreglo.
 
 Por ejemplo, si el primer argumento es:
